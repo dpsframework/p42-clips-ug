@@ -1,73 +1,23 @@
----
-layout: guide
-ref:  c640ug00
-lang:  es
-idiom:  es-ES
-imagepath:  'images/'
-images:
-  -  'cug-640-banner.png'
-  -  'clips_logo.png'
-
-manualcode:  c640ug
 
 
-
-
-
-
-
-
-toc:  true
-
-
-title:  "CLIPS 6.4 Guía del usuario"
-headtitle:  'Léame'
-shorttitle:  'Giarratano, J.C. (2021)'
-year:  '2021'
-author:  'Dr. Giarratano, Joseph C.'
-department:  
-authors:
-
-
-
-departments:
-
-
-
-chapter:  0
-doi:  'https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/clips_documentation_640.zip/download'
-url:  'https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/'
-editor:  'Gary Riley'
-pubdate:  '2021-09-04'
-license:  'GNU Lesser General Public License v3.0'
-
-
-
-
-ndtdate:  '44743'
-date_published:  '2021-09-04'
-date_modified:  '2022-09-012022-07-16'
-publisher:  'Gary Riley'
-
----
-
-
-<h1 class="no_toc">CLIPS 6.40 Guía del usuario (2021)</h1>
+# CLIPS 6.4 Guía del usuario (2021)
 
 >  Autor: Dr. Joseph C. Giarratano<br>
 >  Editor: Gary Riley
 
--  Disponble en: _SourceForge_. [^1]
--  Traducción (es-ES): _Dr. Francisco J. Aguayo_
--  Licencia: _GNU Lesser General Public License v3.0_
+![cug-6.4](images/cug-640-banner.png)
+
+-  Disponble en: _SourceForge_. **[^1]**
+-  Licencia: _GNU Lesser General Public License v3.0  (N. del T.)_ **[^traductor]**
 
 
-# Tabla de contenidos
+
+## Tabla de contenidos
 Léame<br>
 _Capítulo 1._ Solo los hechos<br>
 _Capítulo 2._ Siguiendo las reglas<br>
 _Capítulo 3._ Agregar los detalles<br>
-_Capítulo 4._ Variables con intereses<br>
+_Capítulo 4._ Variables de renombre<br>
 _Capítulo 5._ Hacerlo con estilo<br>
 _Capítulo 6._ Ser funcional<br>
 _Capítulo 7._ Cómo tener el control<br>
@@ -102,11 +52,11 @@ CLIPS está diseñado para facilitar el desarrollo de software para modelar el c
 
 Hay tres formas de representar el conocimiento en CLIPS:
 
--- _**Reglas**_, que están destinadas principalmente al conocimiento heurístico basado en la experiencia.
+- _**Reglas**_, que están destinadas principalmente al conocimiento heurístico basado en la experiencia.
 
--- _**Deffunctions**_ y las  _**generic functions**_, que se destinan principalmente al conocimiento procedimental.
+- _**Deffunctions**_ y las  _**generic functions**_, que se destinan principalmente al conocimiento procedimental.
 
---  _**Programación orientada a objetos**_, también destinada principalmente al conocimiento procedimental. Se admiten las cinco características generalmente aceptadas de la programación orientada a objetos: clases, manejadores de mensajes, abstracción, encapsulación, herencia y polimorfismo. Las reglas pueden coincidir con los patrones en los objetos y frente a los hechos.
+-  _**Programación orientada a objetos**_, también destinada principalmente al conocimiento procedimental. Se admiten las cinco características generalmente aceptadas de la programación orientada a objetos: clases, manejadores de mensajes, abstracción, encapsulación, herencia y polimorfismo. Las reglas pueden coincidir con los patrones en los objetos y frente a los hechos.
   
 Puede desarrollar software usando solo reglas, solo objetos o una combinación de objetos y reglas.
 
@@ -152,4 +102,10 @@ Se han realizado cambios menores en el documento original del Dr. Giarratano par
 
 ##  _Bibliografía_
 
+[1] **CLIP 6.4 User's Guide**. 2021. Joseph C. Giarratano, Ph.D. Editor, Gary Riley. Available at: <https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/>. Visited in 2022.
+
+
+
 [^1]: **CLIPS Rule Based Programming Language Files**. Expert System Tool. Gary, Riley D. (Ed. 2022). URL: https://sourceforge.net/projects/clipsrules/. Available at: [https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/clips_documentation_640.zip/download](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/clips_documentation_640.zip/download)
+
+[^traductor]: Traducción (es-ES): _Dr. FJ. Aguayo_ (2022). Los derechos de esta obra pertenecen a sus autores originales. La traducción se ha realizado bajo la GNU Lesser General Public License v3.0.
