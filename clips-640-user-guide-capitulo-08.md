@@ -16,7 +16,7 @@
 
 > La forma más fácil de obtener riqueza es heredándola; la segunda mejor forma es hacerlo con el trabajo de otros; casarse con la riqueza se parece demasiado al trabajo.
 
-Este capítulo es una descripción general de la programación orientada a objetos en CLIPS (COOL)[^cool]. A diferencia de la programación basada en reglas, en la que puede saltar directamente y escribir una regla sin importar qué más haya en el sistema, la programación orientada a objetos requiere algunos preparativos previos que son esenciales.
+Este capítulo es una descripción general de la programación orientada a objetos en CLIPS (COOL)[^cool]. A diferencia de la programación basada en reglas, en la que se puede saltar directamente a escribir reglas sin importar qué más exista en el sistema, la programación orientada a objetos requiere algunos preparativos previos que son esenciales.
 
 
 <small> _N. del T._: Estos contenidos pertenecen aún, a la versión CLIPS 6.31. Serán revisados y actualizados antes de septiembre de 2022. </small>
