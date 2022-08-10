@@ -2,15 +2,7 @@
 
 The CLIPS 6.30 Users Guide of 2014 is an almost essential piece of documentation to get started in non-imperative programming guided by events and actions. It has been reviewed by Dr. Giarratano J.C. and Edited by Riley last year, 2021. The new version of CLIPS 6.40 User Guide contains the latest advances from version 6.40.
 
-- status:  'In process 60%'
-- reason:  'There are no translations of this document into Spanish.'
-- githubrepo:  'p42-clips-640-ug'
-- date_published:  'August 2022; Revision Pending'
-- license:  'GNU Lesser General Public License v2.1'
-
-
-
-  
+ 
 
 ##   Section 1: Identification
 -  Responsible for the proposal: _FJ Aguayo_.
