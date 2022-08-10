@@ -1,4 +1,4 @@
-# p42-clips-640-ug: <br> Propuesta de traducción de manual técnico: CLIPS 6.40 User's Guide (versión revisada de 2021)
+# p42-clips-640-ug: <br> Propuesta de traducción de manual técnico: CLIPS 6.4 User's Guide (versión revisada de 2021)
 
 - [English version here...](README_en.md)
 
