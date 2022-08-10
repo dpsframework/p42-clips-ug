@@ -2,7 +2,7 @@
 
 > La Guía de Usuario del CLIPS 6.30 de 2014, es una pieza de documentación casi imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Giarratano J.C. y Editada por Riley el año pasado, 2021. La nueva versión de CLIPS 6.40 User Guide contiene los últimos avances de la versión 6.40.
 
-- Versión maquetada y Navegable en ambos idiomas en: https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html
+- Versión maquetada y navegable en ambos idiomas disponibles en: https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html
 
 
 # Descripción de la propuesta: P42-CLIPS-640-UG 
