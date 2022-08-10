@@ -1,11 +1,17 @@
 # p42-clips-640-ug: <br> Propuesta de traducción de manual técnico: CLIPS 6.40 User's Guide (versión revisada de 2021)
 
-> La Guía de Usuario del CLIPS 6.30 de 2014, es una pieza de documentación casi imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Giarratano J.C. y Editada por Riley el año pasado, 2021. La nueva versión de CLIPS 6.40 User Guide contiene los últimos avances de la versión 6.40.
+> La histórica Guía de Usuario de CLIPS 6.31, publicada el 2014, es una pieza de documentación imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Joseph C. Giarratano, y Editada por Gary Riley, el año pasado 2021. La nueva versión de la guía `CLIPS 6.4 User's Guide` contiene los últimos avances de la versión 6.40 de CLIPS disponible en SourceForge[^1].
 
+- Fecha de finalización estimada: Septiembre de 2022[^traductor].
 - Versión maquetada y navegable en ambos idiomas disponibles en: https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html
 
+## Reconocimientos
+A los autores de la obra, el Dr. JC Giarratano y el incansable Gary Riley. Y además, a esta guía en si misma. Porque la Guía de Usuario de CLIPS es la punta de un enorme iceberg. Que esconde lo mejor de CLIPS y COOL, repleta de buen humor y de paciencia con aquellos que llegamos a este Lenguaje en busca de soluciones a problemas complejos. Ellos, sin asustar a nadie, consiguieron hace años con esta sencilla obra introducir poco a poco en campo del conocimiento heurístico y en la programación conducida por los hechos.
 
-# Descripción de la propuesta: P42-CLIPS-640-UG 
+
+
+
+## Descripción de la propuesta: P42-CLIPS-640-UG 
   
 
 ##   Sección 1: Identificación
@@ -112,4 +118,15 @@ etc.
 
 ###  4.1. Información adicional a incluir en la Propuesta de Mejora
 
+
+
+##  _Bibliografía_
+
+[1] **CLIP 6.4 User's Guide**. 2021. Joseph C. Giarratano, Ph.D. Editor, Gary Riley. Available at: <https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/>. Visited in 2022.
+
+
+
+[^1]: **CLIPS Rule Based Programming Language Files**. Expert System Tool. Gary, Riley D. (Ed. 2022). URL: https://sourceforge.net/projects/clipsrules/. Available at: [https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/clips_documentation_640.zip/download](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/clips_documentation_640.zip/download)
+
+[^traductor]: Traducción (es-ES): _Dr. FJ. Aguayo_ (2022). Los derechos de esta obra pertenecen a sus autores originales. La traducción se ha realizado bajo la GNU Lesser General Public License v2.1.
 
