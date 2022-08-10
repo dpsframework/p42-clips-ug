@@ -1,12 +1,14 @@
 # p42-clips-640-ug: <br> Propuesta de traducción de manual técnico: CLIPS 6.40 User's Guide (versión revisada de 2021)
 
-> La histórica Guía de Usuario de CLIPS 6.31, publicada el 2014, es una pieza de documentación imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Joseph C. Giarratano, y Editada por Gary Riley, el año pasado 2021. La nueva versión de la guía `CLIPS 6.4 User's Guide` contiene los últimos avances de la versión 6.40 de CLIPS disponible en SourceForge[^1].
+> La histórica Guía de Usuario de CLIPS 6.31, publicada el 2014, es una pieza de documentación imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Joseph C. Giarratano, y Editada por Gary Riley, el año pasado 2021. La nueva versión de la guía `CLIPS 6.4 User's Guide` contiene los últimos avances de la versión 6.40 de CLIPS y se encuentra disponible en SourceForge[^1].
 
-- Fecha de finalización estimada: Septiembre de 2022[^traductor].
-- Versión maquetada y navegable en ambos idiomas disponibles en: https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html
+- Fecha de finalización estimada de la traducción: Septiembre de 2022[^traductor].
+- La versión navegable se encuentra en ambos idiomas en: [dpsFramework.org/guides/clips-640](https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html)
+
+
 
 ## Reconocimientos
-A los autores de la obra, el Dr. JC Giarratano y el incansable Gary Riley. Y además, a esta guía en si misma. Porque la Guía de Usuario de CLIPS es la punta de un enorme iceberg. Que esconde lo mejor de CLIPS y COOL, repleta de buen humor y de paciencia con aquellos que llegamos a este Lenguaje en busca de soluciones a problemas complejos. Ellos, sin asustar a nadie, consiguieron hace años con esta sencilla obra introducir poco a poco en campo del conocimiento heurístico y en la programación conducida por los hechos.
+A los autores de la obra, el Dr. JC Giarratano y el incansable Gary Riley. Y además, a esta guía en si misma. Porque la Guía de Usuario de CLIPS es la punta de un enorme iceberg. Que esconde lo mejor de CLIPS y COOL, repleta de buen humor y de paciencia con aquellos que llegamos a este Lenguaje en busca de soluciones a problemas complejos. Ellos, sin asustar a nadie, consiguieron hace años con esta sencilla obra introducir poco a poco en campo del conocimiento heurístico y en la programación conducida por los hechos; y, sólo por los hechos.
 
 
 
