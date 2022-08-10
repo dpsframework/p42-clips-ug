@@ -1,17 +1,16 @@
 # p42-clips-640-ug: <br> Translate into Spanish, the CLIPS-6.40 User`s Guide revised by Giarratano and Riley in 2021
 
-The CLIPS 6.30 Users Guide of 2014 is an almost essential piece of documentation to get started in non-imperative programming guided by events and actions. It has been reviewed by Dr. Giarratano J.C. and Edited by Riley last year, 2021. The new version of CLIPS 6.40 User Guide contains the latest advances from version 6.40.
+The CLIPS 6.30 Users Guide of 2014 is an almost essential piece of documentation to get started in non-imperative programming guided by facts, rules and actions. It has been reviewed by Dr. Giarratano J.C. and Edited by Riley last year, 2021. The new version of CLIPS 6.40 User Guide contains the latest advances from version 6.40.
 
  
-
 ##   Section 1: Identification
--  Responsible for the proposal: _FJ Aguayo_.
 -  Proposal date: April, 2022.
 -  Results location: GitHub repo.
+-  Navegable version at: https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html
 
 ##   Section 2: Translation
 -  Google Translator and manual review are used, paragraph by paragraph, of the wording in Spanish.
--  All source code is treated identically in both languages, and in the Web version, a header is added to each Code Listing.
+-  The source-code and examples are treated identically in both languages.
 
 ###  2.1. Description of the proposal:
 
@@ -20,10 +19,7 @@ The CLIPS 6.30 Users Guide of 2014 is an almost essential piece of documentation
 
 ###  2.2. Target platform
 -  Markdown language
-  
 -  The twelve chapters in Spanish.
-
-
 
 
 ###  23. What does the translation proposal need?
@@ -37,19 +33,11 @@ The CLIPS 6.30 Users Guide of 2014 is an almost essential piece of documentation
 -  Because no translations of this manual have been found on the Internet.
 
 
-
-
-
-
 ###  2.5. Underlying technology or technologies:
 -  CLIPS
 -  COOL
 -  Java
 -  lisp
-
-
-
-
 
 
 
