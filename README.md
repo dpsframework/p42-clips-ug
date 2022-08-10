@@ -1,50 +1,53 @@
-# p42-clips-640-ug: <br> Translate into Spanish, the CLIPS-6.40 User`s Guide revised by Giarratano and Riley in 2021
+# p42-clips-640-ug: <br> Propuesta de traducción de manual técnico: CLIPS 6.40 User's Guide (versión revisada de 2021)
 
-The CLIPS 6.30 Users Guide of 2014 is an almost essential piece of documentation to get started in non-imperative programming guided by facts, rules and actions. It has been reviewed by Dr. Giarratano J.C. and Edited by Riley last year, 2021. The new version of CLIPS 6.40 User Guide contains the latest advances from version 6.40.
+> La Guía de Usuario del CLIPS 6.30 de 2014, es una pieza de documentación casi imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Giarratano J.C. y Editada por Riley el año pasado, 2021. La nueva versión de CLIPS 6.40 User Guide contiene los últimos avances de la versión 6.40.
 
- 
-##   Section 1: Identification
--  Proposal date: April, 2022.
--  Results location: GitHub repo.
--  Navegable version at: https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html
-
-##   Section 2: Translation
--  Google Translator and manual review are used, paragraph by paragraph, of the wording in Spanish.
--  The source-code and examples are treated identically in both languages.
-
-###  2.1. Description of the proposal:
-
--  Complete the translation of the CLIPS User's Guide version 6.40. Edited and revised in 2021.
--  Once the translation of the contents is done, convert them to an open format (Markdown) for viewing as a book on the Internet.
-
-###  2.2. Target platform
--  Markdown language
--  The twelve chapters in Spanish.
+- Versión maquetada y Navegable en ambos idiomas en: https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html
 
 
-###  23. What does the translation proposal need?
--  Weather. Approximately 250 hours of work. One half hour for each page of the original Guide in English.
--  Professional translation tools.
--  Build a glossary with terms that are impossible to translate into Spanish.
+# Descripción de la propuesta: P42-CLIPS-640-UG 
+  
+
+##   Sección 1: Identificación
+-  Fecha de la propuesta: Abril, 2022.
+-  Ubicación de resultados: GitHub repo.
+
+##   Sección 2: Traducción
+-  Se utiliza Google Translator y revisión manual, párrafo a párrafo de la redacción en castellano.
+-  Todo el código se trata de forma idéntica en ambos idiomas y solo en la versión Web, se incorporan cabeceras a cada Listado de código.
+
+###  2.1. Descripción de la propuesta:
+
+-  Realizar la traducción íntegra de la Guía del Usuario de CLIPS versión 6.40. Editada y revisada el año 2021.
+-  Una vez realizada la traducción de los contenidos, pasar los mismos a un formato abierto (Markdown) para su visualización como libro en Internet.
+
+###  2.2. Plataforma de destino
+-  Lenguaje Markdown
+-  Texto plano, de los doce capítulos.
 
 
-###  2.4. Why this proposal?
--  Because an introductory text to the CLIPS Language is still absolutely necessary. And this guide has proven to be an essential tool to get started with CLIPS.
--  Because no translations of this manual have been found on the Internet.
+###  2.3. ¿Qué necesita la propuesta de traducción?
+-  Tiempo. Aproximadamente unas 250 horas de trabajo. Se estima media hora por cada página de la Guía original en inglés (156 páginas x 0,5 horas)
+-  Herramientas de traducción profesionales.
+-  Construir un glosario con los términos que son imposibles de traducir al castellano.
 
 
-###  2.5. Underlying technology or technologies:
+###  2.4. ¿Por qué llevar a cabo esta propuesta?
+-  Porque sigue siendo absolutamente necesario un texto de introducción al Lenguaje CLIPS. Y esta guía ha demostrado ser una herramienta imprescidible para iniciarse en Lenguaje CLIPS y en COOL.
+-  Porque no se han encontrado en Internet traducciones de este manual.
+
+
+
+###  2.5. Tecnología o tecnologías subyacentes:
 -  CLIPS
 -  COOL
 -  Java
--  lisp
+-  Lisp
 
 
-
-
-###  2.6. Package name for the translated files?
+###  2.6. ¿Nombre del paquete para los archivos traducidosI?
 -    clips-640-user-guide-chapter-00
--    clips-640-user-guide-chapter-00
+-    clips-640-user-guide-chapter-01
 etc.
 
 
@@ -52,159 +55,61 @@ etc.
 
 
 
+###  2.7. Dependencias en sistemas operativos específicos
+-  Ninguna.
 
 
 
 
 
+###  2.8. Cuestiones de seguridad por el modelo de seguridad actual
+-  No se aplica en este proyecto
 
-###  2.7. Dependencies on specific operating systems
--  None.
 
 
 
 
 
+###  2.9. ¿Problemas de internacionalización o localización?
+-  No se han implementado.
 
 
 
 
 
+###  2.10. ¿Alguna necesidad de revisión como resultado de este trabajo?
+-  Se ofrece a la comunidad científica bajo Licencia GPL Lesser 2.1.
+-  Se queda a la espera de revisión.
 
 
-###  2.8. Security issues due to the current security model
--  Does not apply to this project
 
 
 
+###  2.11. Cronograma para el desarrollo de esta propuesta
+-   Inicio: **Abril de 2022**
+-   Final: **Agosto 2022**
 
 
 
 
 
 
+##   Sección 3: Contribuciones
 
 
+###  3.1. Documentos, propuestas o implementaciones que describen la tecnología.
 
 
 
-###  2.9. Internationalization or localization problems?
--  They have not been implemented.
 
+###  3.2. Punto de partida de la obra.
+-   CLIPS 6.4 User Guide (versión revisada de 2021) por Giarratanod JC, PhD. Editor Gary Riley.
 
 
 
+##   Sección 4: Información Adicional (Opcional)
 
 
-
-
-
-
-
-
-
-
-
-###  2.10. Any need for revision as a result of this work?
--  It has not been planned. Awaiting review.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###  2.11. Schedule for the development of this proposal
--   Start: **April 2022**
--   End: **August 2022**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##   Section 3: Contributions
-
-
-
-
-###  3.1. Documents, proposals or implementations that describe the technology.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###  3.2. Starting point of the work.
--   CLIPS 6.4 User Guide (2021)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##   Section 4: Additional Information (Optional)
-
-
-
-
-
-
-
-
-
-
-
-
-###  4.1. Additional information to include in the Improvement Proposal
-  
-  
-
-
-
-
-
-
+###  4.1. Información adicional a incluir en la Propuesta de Mejora
 
 
