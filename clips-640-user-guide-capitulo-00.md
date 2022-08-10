@@ -5,11 +5,7 @@
 >  Autor: Dr. Joseph C. Giarratano<br>
 >  Editor: Gary Riley
 
-![cug-6.4](images/cug-640-banner.png)
-
--  Disponble en: _SourceForge_. **[^1]**
--  Licencia: _GNU Lesser General Public License v3.0  (N. del T.)_ **[^traductor]**
-
+<img src="images/cug-640-banner.png" width="280px" align="left" vspace="4px" border="0px">
 
 
 ## Tabla de contenidos
@@ -28,6 +24,9 @@ _Capítulo 11._ Gestionando a los Manipuladores<br>
 _Capítulo 12._ Preguntas y respuestas<br>
 Información de soporte<br>
 
+
+-  Versión original en: _SourceForge_. **[^1]**
+-  Licencia: _GNU Lesser General Public License v3.0  (N. del T.)_ **[^traductor]**
 
 
 
