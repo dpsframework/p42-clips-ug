@@ -27,7 +27,7 @@ Información de soporte<br>
 
 - Versión original en: _SourceForge_. **[^1]**
 - Licencia: _GNU Lesser General Public License v2.1 (N. del T.)_ **[^traductor]**
-- La versión navegable se encuentra en ambos idiomas en: [dpsFramework.org/guides/clips-640](https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_es.html)
+- La versión navegable se encuentra en ambos idiomas en: [dpsFramework.org/guides/clips-640](https://dpsframework.org/guides/clips-640/es/clips-640-user-guide-chapter-00_es.html)
 - Fecha de finalización estimada: Septiembre de 2022.]
 
 
