@@ -1,31 +1,39 @@
-# p42-clips-640-ug: <br> Propuesta de traducción de manual técnico: CLIPS 6.4 User's Guide (versión revisada de 2021)
+# p42-clips-ug
 
-- [English version...](README_en.md)
+- [English...](README_en.md)
 
+### Propuesta de traducción de manual técnico: CLIPS 6.4 User's Guide[^1] (versión revisada de 2021)
 
-> La histórica Guía de Usuario de CLIPS 6.31, publicada el 2014, es una pieza de documentación imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Joseph C. Giarratano, y Editada por Gary Riley, el año pasado 2021. La nueva versión de la guía `CLIPS 6.4 User's Guide` contiene los últimos avances de la versión 6.40 de CLIPS y se encuentra disponible en SourceForge[^1].
-
-- Fecha de finalización estimada de la traducción: Septiembre de 2022[^traductor].
-- La versión navegable se encuentra en ambos idiomas en: [dpsFramework.org/guides/clips-640](https://dpsframework.org/guides/clips-640/es/clips-640-user-guide-chapter-00_es.html) para facilitar a los lectores, localizar de forma instantánea, cómo se han traducido cada párrafo.
-
-
-
-## Reconocimientos
-A los autores de la obra, el Dr. JC Giarratano y el incansable Gary Riley. Y además, a esta guía en si misma. Porque la Guía de Usuario de CLIPS es la punta de un enorme iceberg. Que esconde lo mejor de CLIPS y COOL, repleta de buen humor y de paciencia con aquellos que llegamos a este Lenguaje en busca de soluciones a problemas complejos. Ellos, sin asustar a nadie, consiguieron hace años con esta sencilla obra introducir poco a poco en campo del conocimiento heurístico y en la programación conducida por los hechos; y, sólo por los hechos.
+- status:  'En curso'
+- title:  'Propuesta: CLIPS 6.4 Guía de Usuario, en castellano'
+- subtitle:  'Propuesta de traducción de manual técnico de CLIPS 6.4 User`s Guide, versión de 2021'
+- headtitle:  'Desde la primera versión de la Guía de Usuario del CLIPS 6.20, de Marzo de 2002, este manual técnico ha sido una pieza imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada progresivamente en cada lanzamiento de CLIPS. La última versión de esta Guía ha sido revisada por el Dr. Giarratano J.C. y Editada por Gary Riley en Abril de 2021. Y ahora incluye los últimos avances introducidos en la versión 6.40 de CLIPS.'
 
 
 
 
-## Descripción de la propuesta: P42-CLIPS-640-UG 
+##  Lista de Tareas:
+- [x]  \(1) Cosntruir sistema de navegació por capítulos.
+- [x]  \(2) Mecanismo para no alterar el código-fuente de ejemplos.
+- [x]  \(3) Traducción de capítulos Introducción, 1º, 2º, 3º y 4º.
+- [x]  \(4) Revisión sistema de directorios e imágenes
+- [ - ]  \(5) Traducción de capítulos 5º, 6º y 7º (finalizada Parte-I).
+- [ - ]  \(6) Traducción de capítulos 8º y 9º.
+- [ - ]  \(7) Traducción de capítulos 10º, 11º (finalizada Parte-II COOL).
+- [ - ]  \(8) Traducción de capítulo 12º y anexo de Soporte
+- [ - ]  \(9) Revisión y compilación como .epub y .pdf
+
+
   
 
 ##   Sección 1: Identificación
+-  Responsable de la propuesta: _FJ Aguayo_[^traductor].
 -  Fecha de la propuesta: Abril, 2022.
 -  Ubicación de resultados: GitHub repo.
 
-##   Sección 2: Traducción
--  Se utiliza Google Translator y revisión manual, párrafo a párrafo de la redacción en castellano.
--  Todo el código se trata de forma idéntica en ambos idiomas y solo en la versión Web, se incorporan cabeceras a cada Listado de código.
+##   Sección 2: Procesos
+-  El objetivo es realizar una traducción completa, párrafo a párrafo, de la versión 6.4 de la Guía de Usuario de CLIPS.
+-  Todo el código se trata de forma idéntica en ambos idiomas, y en la versión Web, se incorpora cabecera a cada Listado de código.
 
 ###  2.1. Descripción de la propuesta:
 
@@ -34,18 +42,24 @@ A los autores de la obra, el Dr. JC Giarratano y el incansable Gary Riley. Y ade
 
 ###  2.2. Plataforma de destino
 -  Lenguaje Markdown
--  Texto plano, de los doce capítulos.
+  
+-  Los doce capítulos en castellano.
+
+
 
 
 ###  2.3. ¿Qué necesita la propuesta de traducción?
--  Tiempo. Aproximadamente unas 250 horas de trabajo. Se estima media hora por cada página de la Guía original en inglés (156 páginas x 0,5 horas)
+-  Tiempo. Aproximadamente unas 250 horas de trabajo. Una media hora por cada página de la Guía original en inglés.
 -  Herramientas de traducción profesionales.
 -  Construir un glosario con los términos que son imposibles de traducir al castellano.
 
 
-###  2.4. ¿Por qué llevar a cabo esta propuesta?
--  Porque sigue siendo absolutamente necesario un texto de introducción al Lenguaje CLIPS. Y esta guía ha demostrado ser una herramienta imprescidible para iniciarse en Lenguaje CLIPS y en COOL.
+###  2.4. ¿Por qué esta propuesta?
+-  Porque sigue siendo absolutamente necesario un texto de introducción al Lenguaje CLIPS. Y esta guía ha demostrado ser una herramienta imprescidible para iniciarse en CLIPS.
 -  Porque no se han encontrado en Internet traducciones de este manual.
+
+
+
 
 
 
@@ -56,10 +70,22 @@ A los autores de la obra, el Dr. JC Giarratano y el incansable Gary Riley. Y ade
 -  Lisp
 
 
+
+
+
+
+
+
 ###  2.6. ¿Nombre del paquete para los archivos traducidosI?
 -    clips-640-user-guide-chapter-00
--    clips-640-user-guide-chapter-01
+-    clips-640-user-guide-chapter-00
 etc.
+
+
+
+
+
+
 
 
 
@@ -73,8 +99,23 @@ etc.
 
 
 
+
+
+
+
+
+
+
 ###  2.8. Cuestiones de seguridad por el modelo de seguridad actual
 -  No se aplica en este proyecto
+
+
+
+
+
+
+
+
 
 
 
@@ -88,9 +129,29 @@ etc.
 
 
 
+
+
+
+
+
+
+
+
+
+
 ###  2.10. ¿Alguna necesidad de revisión como resultado de este trabajo?
--  Se ofrece a la comunidad científica bajo Licencia GPL Lesser 2.1.
--  Se queda a la espera de revisión.
+-  No se ha previsto. A la espera de revisión.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -105,7 +166,19 @@ etc.
 
 
 
+
+
+
+
+
+
+
+
+
+
 ##   Sección 3: Contribuciones
+
+
 
 
 ###  3.1. Documentos, propuestas o implementaciones que describen la tecnología.
@@ -113,21 +186,59 @@ etc.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ###  3.2. Punto de partida de la obra.
--   CLIPS 6.4 User Guide (versión revisada de 2021) por Giarratanod JC, PhD. Editor Gary Riley.
+-   CLIPS 6.4 User Guide (2021) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ##   Sección 4: Información Adicional (Opcional)
 
 
-###  4.1. Información adicional a incluir en la Propuesta de Mejora
 
+
+
+
+
+
+
+
+
+
+###  4.1. Información adicional a incluir en la Propuesta de Mejora
+  
+  
 
 
 ##  _Bibliografía_
 
-[1] **CLIP 6.4 User's Guide**. 2021. Joseph C. Giarratano, Ph.D. Editor, Gary Riley. Available at: <https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/>. Visited in 2022.
+[GIARRATANO-RILEY-2021] **CLIP 6.4 User's Guide**. 2021. Joseph C. Giarratano, Ph.D. Editor, Gary Riley. Available at: <https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/>. Visited in 2022.
 
 
 
