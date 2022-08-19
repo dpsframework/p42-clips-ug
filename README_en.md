@@ -5,7 +5,7 @@
 > The historical CLIPS 6.31 User Guide, published in 2014, is an essential piece of documentation to get started in non-imperative programming guided by events and actions. It has been reviewed by Dr. Joseph C. Giarratano, and Edited by Gary Riley, last year 2021. The new version of the `CLIPS 6.4 User's Guide` contains the latest advances of version 6.40 of CLIPS and is available at SourceForge[^1].
 
 - Estimated completion date of the translation: September 2022[^translator].
-- The navigable version is found in both languages at: [dpsFramework.org/guides/clips-640](https://dpsframework.org/guides/clips-640/clips-640-user-guide-chapter-00_en.html ) to make it easy for readers to instantly locate how each paragraph has been translated.
+- The navigable version is found in both languages at: [dpsFramework.org/guides/clips-640](https://dpsframework.org/guides/clips-640/en/clips-640-user-guide-chapter-00_en.html ) to make it easy for readers to instantly locate how each paragraph has been translated.
 
 
 
