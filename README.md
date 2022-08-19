@@ -1,6 +1,6 @@
 # p42-clips-640-ug: <br> Propuesta de traducción de manual técnico: CLIPS 6.4 User's Guide (versión revisada de 2021)
 
-- [English version here...](README_en.md)
+- [English version...](README_en.md)
 
 
 > La histórica Guía de Usuario de CLIPS 6.31, publicada el 2014, es una pieza de documentación imprescindible para iniciarse en la programación no-imperativa guiada por hechos y acciones. Ha sido revisada por el Dr. Joseph C. Giarratano, y Editada por Gary Riley, el año pasado 2021. La nueva versión de la guía `CLIPS 6.4 User's Guide` contiene los últimos avances de la versión 6.40 de CLIPS y se encuentra disponible en SourceForge[^1].
