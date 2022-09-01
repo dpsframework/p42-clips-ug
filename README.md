@@ -239,7 +239,7 @@ etc.
 
 # p42-clips-ug
 
-[Spanish](https://github.com/dpsframework/p42-clips-ug/#p42-clips-ug)
+[Spanish](https://github.com/dpsframework/p42-clips-ug#p42-clips-ug)
 
 ### Proposal: CLIPS 6.4 User`s Guide[^1], in spanish language (2021 revised version)
 
