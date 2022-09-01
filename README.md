@@ -1,6 +1,6 @@
 # p42-clips-ug
 
-- [English...](README_en.md)
+[English](https://github.com/dpsframework/p42-clips-ug#p42-clips-ug-1)
 
 ### Propuesta de traducción de manual técnico: CLIPS 6.4 User's Guide[^1] (versión revisada de 2021)
 
