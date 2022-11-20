@@ -4,6 +4,7 @@
 
 ### Propuesta de traducción de manual técnico: CLIPS 6.4 User's Guide[^1] (versión revisada de 2021)
 
+- https://dpsframework.org/guides/clips-640/es/clips-640-user-guide-chapter-00_es.html
 - status:  'En curso'
 - title:  'Propuesta: CLIPS 6.4 Guía de Usuario, en castellano'
 - subtitle:  'Propuesta de traducción de manual técnico de CLIPS 6.4 User`s Guide, versión de 2021'
@@ -243,6 +244,7 @@ etc.
 
 ### Proposal: CLIPS 6.4 User`s Guide[^1], in spanish language (2021 revised version)
 
+- https://dpsframework.org/guides/clips-640/es/clips-640-user-guide-chapter-00_en.html
 - status:  'In process'
 - title:  'Proposal: CLIPS 6.4 User`s Guide, in spanish language'
 - subtitle:  'Proposal for the translation of the CLIPS 6.40 User`s Guide technical manual, 2021 version'
